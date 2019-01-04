@@ -15,4 +15,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka8762:8762/eureka
-testConfig:  'liangliang'
+testConfig:  'liangliang 2333333'
