@@ -10,8 +10,9 @@ eureka:
 spring:
   profiles: test
 server:
-  port:  3302
+  port:  3301
 eureka:
   client:
     service-url:
       defaultZone: http://eureka8762:8762/eureka
+testConfig:  'liangliang'
