@@ -10,7 +10,7 @@ eureka:
 spring:
   profiles: test
 server:
-  port:  3301
+  port:  3302
 eureka:
   client:
     service-url:
