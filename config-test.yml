@@ -14,5 +14,5 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://eureka8762:8762/eureka
+      defaultZone: http://eureka8761:8761/eureka
 testConfig:  'liangliang 2333333'
